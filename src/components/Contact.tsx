@@ -41,31 +41,31 @@ const Contact = () => {
               <ContactItem 
                 icon={<Mail className="text-blue-500" />}
                 title="Email"
-                content="your.email@example.com"
-                link="mailto:your.email@example.com"
+                content="soumensarkar7498@gmail.com"
+                link="mailto:soumensarkar7498@gmail.com"
               />
               <ContactItem 
                 icon={<Phone className="text-blue-500" />}
                 title="Phone"
-                content="+1 (555) 123-4567"
-                link="tel:+15551234567"
+                content="+91 8335032474"
+                link="tel:+918335032474"
               />
               <ContactItem 
                 icon={<MapPin className="text-blue-500" />}
                 title="Location"
-                content="San Francisco, CA"
+                content="Kolkata, India"
               />
               <ContactItem 
                 icon={<Linkedin className="text-blue-500" />}
                 title="LinkedIn"
-                content="linkedin.com/in/yourprofile"
-                link="https://linkedin.com/in/yourprofile"
+                content="linkedin.com/in/soumensarkar"
+                link="https://www.linkedin.com/in/soumensarkar/"
               />
               <ContactItem 
                 icon={<Github className="text-blue-500" />}
                 title="GitHub"
-                content="github.com/yourusername"
-                link="https://github.com/yourusername"
+                content="github.com/soumens7"
+                link="https://github.com/soumens7"
               />
             </div>
           </div>
@@ -84,7 +84,7 @@ const Contact = () => {
                     name="name"
                     value={formData.name}
                     onChange={handleChange}
-                    placeholder="John Doe"
+                    placeholder="Your Name"
                     required
                   />
                 </div>
@@ -98,7 +98,7 @@ const Contact = () => {
                     type="email"
                     value={formData.email}
                     onChange={handleChange}
-                    placeholder="john@example.com"
+                    placeholder="Youe Email ID"
                     required
                   />
                 </div>

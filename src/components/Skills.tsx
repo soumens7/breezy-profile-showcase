@@ -9,28 +9,26 @@ type Skill = {
 
 const Skills = () => {
   const frontendSkills: Skill[] = [
-    { name: 'HTML & CSS', progress: 95, color: 'bg-blue-500' },
-    { name: 'JavaScript', progress: 90, color: 'bg-yellow-500' },
-    { name: 'React', progress: 85, color: 'bg-cyan-500' },
-    { name: 'TypeScript', progress: 80, color: 'bg-blue-600' },
+    { name: 'HTML & CSS', progress: 80, color: 'bg-blue-500' },
+    { name: 'JavaScript', progress: 85, color: 'bg-yellow-500' },
+    { name: 'React', progress: 75, color: 'bg-cyan-500' },
+    { name: 'Bootstrap', progress: 70, color: 'bg-purple-500' },
+    
   ];
 
   const backendSkills: Skill[] = [
-    { name: 'Node.js', progress: 75, color: 'bg-green-500' },
-    { name: 'Express', progress: 70, color: 'bg-gray-600' },
-    { name: 'MongoDB', progress: 65, color: 'bg-green-600' },
-    { name: 'SQL', progress: 60, color: 'bg-blue-400' },
+    { name: 'Node.js', progress: 80, color: 'bg-green-500' },
+    { name: 'Express', progress: 85, color: 'bg-gray-600' },
+    { name: 'MongoDB', progress: 75, color: 'bg-green-600' },
+    { name: 'SQL', progress: 70, color: 'bg-blue-400' },
   ];
 
   const otherSkills: string[] = [
     'Git & GitHub',
     'Responsive Design',
     'REST APIs',
-    'TailwindCSS',
-    'UI/UX Design',
     'Performance Optimization',
     'Testing',
-    'AWS',
   ];
 
   return (

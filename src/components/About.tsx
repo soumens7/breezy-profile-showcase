@@ -24,20 +24,20 @@ const About = () => {
           <div className="animate-fade-in">
             <h3 className="text-2xl font-bold mb-4 text-gray-900">Who I Am</h3>
             <p className="text-gray-600 mb-6">
-              I'm a web developer with a passion for creating beautiful, responsive websites and applications. With over 5 years of experience in the field, I specialize in creating intuitive user interfaces and smooth user experiences.
+            Results-driven Full Stack Developer with strong expertise in both frontend and backend development. Proficient in JavaScript, React.js, Node.js, Express.js, MongoDB, and SQL, with a solid foundation in building scalable, maintainable, and high-performance web applications. Experienced in designing RESTful APIs, integrating frontend components with backend services, and managing databases for optimal performance and data integrity.
             </p>
-            <p className="text-gray-600 mb-6">
-              My journey in web development started when I built my first website at age 15. Since then, I've continuously improved my skills and expanded my knowledge to keep up with the ever-evolving tech landscape.
-            </p>
+            {/* <p className="text-gray-600 mb-6">
+              My journey in tech started when I built my first website at age 15. Since then, I've continuously improved my skills and expanded my knowledge to keep up with the ever-evolving tech landscape.
+            </p> */}
             
             <div className="grid gap-4">
-              <InfoItem icon={<User size={18} />} label="Name" value="Your Name" />
-              <InfoItem icon={<Briefcase size={18} />} label="Experience" value="5+ Years" />
-              <InfoItem icon={<Mail size={18} />} label="Email" value="your.email@example.com" />
+              <InfoItem icon={<User size={18} />} label="Name" value="Soumen Sarkar" />
+              <InfoItem icon={<Briefcase size={18} />} label="Experience" value="3+ Years" />
+              <InfoItem icon={<Mail size={18} />} label="Email" value="soumensarkar7498@gmail.com" />
               <InfoItem 
                 icon={<ExternalLink size={18} />} 
                 label="LinkedIn" 
-                value="linkedin.com/in/yourprofile" 
+                value="https://www.linkedin.com/in/soumensarkar/" 
                 isLink
               />
             </div>

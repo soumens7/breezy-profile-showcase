@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center mb-8">
           <div className="mb-6 md:mb-0">
-            <h3 className="text-2xl font-bold">Your Name</h3>
+            <h3 className="text-2xl font-bold">Soumen Sarkar</h3>
             <p className="text-gray-400 mt-2">Web Developer & Designer</p>
           </div>
           
@@ -21,7 +21,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 pt-8 mt-8 text-center md:flex md:justify-between md:text-left">
-          <div className="mb-4 md:mb-0">
+          {/* <div className="mb-4 md:mb-0">
             <nav className="flex flex-wrap justify-center md:justify-start gap-x-8 gap-y-4">
               <FooterLink href="#home">Home</FooterLink>
               <FooterLink href="#about">About</FooterLink>
@@ -29,10 +29,10 @@ const Footer = () => {
               <FooterLink href="#projects">Projects</FooterLink>
               <FooterLink href="#contact">Contact</FooterLink>
             </nav>
-          </div>
+          </div> */}
           
           <p className="text-gray-400 text-sm">
-            © {new Date().getFullYear()} Your Name. All rights reserved.
+            © {new Date().getFullYear()} Soumen Sarkar. All rights reserved.
           </p>
         </div>
       </div>

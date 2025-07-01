@@ -19,33 +19,33 @@ const Projects = () => {
       title: "E-commerce Website",
       description: "A fully responsive e-commerce platform with product catalog, shopping cart, and checkout functionality.",
       image: "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?auto=format&fit=crop&w=600&h=400",
-      tags: ["React", "Node.js", "MongoDB", "Stripe"],
-      demoUrl: "#",
-      codeUrl: "#",
+      tags: ["React", "Node.js", "MongoDB", "Razorpay"],
+      demoUrl: "https://mern-e-commerce-app-tau.vercel.app/",
+      codeUrl: "https://github.com/soumens7/MERN-E-Commerce-App",
     },
     {
-      title: "Task Management App",
-      description: "A productivity application for managing tasks with drag-and-drop interface and team collaboration features.",
+      title: "Habit Tracker",
+      description: "A productivity application for managing tasks/habits with add, remove and track streak features.",
       image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&h=400",
-      tags: ["TypeScript", "React", "Firebase", "TailwindCSS"],
-      demoUrl: "#",
-      codeUrl: "#",
+      tags: ["Javascript", "NodeJS", "MongoDB", "EJS"],
+      demoUrl: "https://habit-tracker-1-xz6v.onrender.com",
+      codeUrl: "https://github.com/soumens7/Habit-tracker",
     },
     {
-      title: "Weather Dashboard",
-      description: "A weather tracking application with real-time updates, location search, and weekly forecasts.",
+      title: "Content-Summarizer App",
+      description: "a full-stack text summarization app using Next.js, Tailwind CSS, and Hugging Face NLP API for AI-powered summaries.",
       image: "https://images.unsplash.com/photo-1500673922987-e212871fec22?auto=format&fit=crop&w=600&h=400",
-      tags: ["JavaScript", "React", "Weather API", "ChartJS"],
-      demoUrl: "#",
-      codeUrl: "#",
+      tags: ["Next.js", "TailwindCSS", "Axios", "RESTful API", "AI (Hugging Face NLP API)"],
+      demoUrl: "https://content-summarizer-msdb.onrender.com/",
+      codeUrl: "https://github.com/soumens7/Content-Summarizer",
     },
     {
-      title: "Portfolio Website",
-      description: "A showcase website to display professional work and skills with modern design and animations.",
+      title: "Voice-To-Text-App",
+      description: "This is a voice to text Web App which converts voice in English and translate in Hindi.",
       image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=600&h=400",
-      tags: ["React", "TailwindCSS", "Framer Motion", "Vite"],
-      demoUrl: "#",
-      codeUrl: "#",
+      tags: ["Next.js (React)", "TailwindCSS", "Web Speech API", "Hugging Face Inference API"],
+      demoUrl: "https://voice-to-text-app-shit.onrender.com/",
+      codeUrl: "https://github.com/soumens7/Voice-To-Text-App",
     },
   ];
 
@@ -64,7 +64,13 @@ const Projects = () => {
 
         <div className="text-center mt-12">
           <Button variant="outline" className="border-blue-500 text-blue-600 hover:bg-blue-50">
-            View All Projects <Github size={16} className="ml-2" />
+          <a
+      href="https://github.com/soumens7" 
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      View All Projects <Github size={16} className="ml-2" />
+    </a>
           </Button>
         </div>
       </div>

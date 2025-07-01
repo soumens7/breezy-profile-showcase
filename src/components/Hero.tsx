@@ -10,7 +10,7 @@ const Hero = () => {
         <h1 className="text-4xl md:text-6xl font-bold mb-6 text-gray-900">
           <span className="block">Hello, I'm</span>
           <span className="block text-5xl md:text-7xl bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-teal-500 mt-2">
-            Your Name
+            Soumen
           </span>
         </h1>
         
