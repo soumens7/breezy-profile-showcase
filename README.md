@@ -4,6 +4,10 @@
 
 **URL**: https://lovable.dev/projects/89c091d1-3581-4054-af40-fd2b78730a7b
 
+## 🚀 Live Demo
+
+> Check out the live version of the project [here](https://breezy-profile-showcase.vercel.app/#contact)
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
