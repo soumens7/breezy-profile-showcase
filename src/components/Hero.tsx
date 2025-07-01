@@ -19,12 +19,16 @@ const Hero = () => {
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4">
+          <a href="#projects">
           <Button className="bg-blue-600 hover:bg-blue-700 text-white px-6">
             View My Work
           </Button>
+          </a>
+          <a href="#contact">
           <Button variant="outline" className="border-blue-600 text-blue-600 hover:bg-blue-50 px-6">
             Contact Me
           </Button>
+          </a>
         </div>
         
         {/* Scroll down indicator */}
