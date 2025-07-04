@@ -18,7 +18,7 @@ const Projects = () => {
     {
       title: "E-commerce Website",
       description: "A fully responsive e-commerce platform with product catalog, shopping cart, and checkout functionality.",
-      image: "src/components/Themes/pexels-karolina-grabowska-5632382.jpg",
+      image: "/Themes/pexels-karolina-grabowska-5632382.jpg",
       tags: ["React", "Node.js", "MongoDB", "REST API", "Razorpay"],
       demoUrl: "https://mern-e-commerce-app-tau.vercel.app/",
       codeUrl: "https://github.com/soumens7/MERN-E-Commerce-App",
@@ -26,7 +26,7 @@ const Projects = () => {
     {
       title: "Habit Tracker",
       description: "A productivity application for managing tasks/habits with add, remove and track streak features.",
-      image: "src/components/Themes/pexels-polina-kovaleva-5717413.jpg",
+      image: "/Themes/pexels-polina-kovaleva-5717413.jpg",
       tags: ["Javascript", "NodeJS", "MongoDB", "EJS"],
       demoUrl: "https://habit-tracker-1-xz6v.onrender.com",
       codeUrl: "https://github.com/soumens7/Habit-tracker",
@@ -34,7 +34,7 @@ const Projects = () => {
     {
       title: "Content-Summarizer App",
       description: "a full-stack text summarization app using Next.js, Tailwind CSS, and Hugging Face NLP API for AI-powered summaries.",
-      image: "src/components/Themes/pexels-rdne-7947750.jpg",
+      image: "/Themes/pexels-rdne-7947750.jpg",
       tags: ["Next.js", "TailwindCSS", "Axios", "RESTful API", "AI (Hugging Face NLP API)"],
       demoUrl: "https://content-summarizer-msdb.onrender.com/",
       codeUrl: "https://github.com/soumens7/Content-Summarizer",
@@ -42,7 +42,7 @@ const Projects = () => {
     {
       title: "Voice-To-Text-App",
       description: "This is a voice to text Web App which converts voice in English and translate in Hindi.",
-      image: "src/components/Themes/markus-winkler-zkF_DbblKSI-unsplash.jpg",
+      image: "/Themes/markus-winkler-zkF_DbblKSI-unsplash.jpg",
       tags: ["Next.js (React)", "TailwindCSS", "Web Speech API", "Hugging Face Inference API"],
       demoUrl: "https://voice-to-text-app-shit.onrender.com/",
       codeUrl: "https://github.com/soumens7/Voice-To-Text-App",
