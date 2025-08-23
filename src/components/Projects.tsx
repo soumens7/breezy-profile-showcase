@@ -43,7 +43,7 @@ const Projects = () => {
       title: "Voice-To-Text-App",
       description: "This is a voice to text Web App which converts voice in English and translate in Hindi.",
       image: "/Themes/markus-winkler-zkF_DbblKSI-unsplash.jpg",
-      tags: ["Next.js (React)", "TailwindCSS", "Web Speech API", "Hugging Face Inference API"],
+      tags: ["Next.js", "TailwindCSS", "Web Speech API", "Hugging Face Inference API"],
       demoUrl: "https://voice-to-text-app-red.vercel.app/",
       codeUrl: "https://github.com/soumens7/Voice-To-Text-App",
     },
