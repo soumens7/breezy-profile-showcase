@@ -36,7 +36,7 @@ const Projects = () => {
       description: "a full-stack text summarization app using Next.js, Tailwind CSS, and Hugging Face NLP API for AI-powered summaries.",
       image: "/Themes/pexels-rdne-7947750.jpg",
       tags: ["Next.js", "TailwindCSS", "Axios", "RESTful API", "AI (Hugging Face NLP API)"],
-      demoUrl: "https://content-summarizer-msdb.onrender.com/",
+      demoUrl: "https://content-summarizer-swart.vercel.app/",
       codeUrl: "https://github.com/soumens7/Content-Summarizer",
     },
     {
@@ -44,7 +44,7 @@ const Projects = () => {
       description: "This is a voice to text Web App which converts voice in English and translate in Hindi.",
       image: "/Themes/markus-winkler-zkF_DbblKSI-unsplash.jpg",
       tags: ["Next.js (React)", "TailwindCSS", "Web Speech API", "Hugging Face Inference API"],
-      demoUrl: "https://voice-to-text-app-shit.onrender.com/",
+      demoUrl: "https://voice-to-text-app-red.vercel.app/",
       codeUrl: "https://github.com/soumens7/Voice-To-Text-App",
     },
   ];
