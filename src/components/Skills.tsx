@@ -17,10 +17,10 @@ const Skills = () => {
   ];
 
   const backendSkills: Skill[] = [
-    { name: 'Node.js', progress: 80, color: 'bg-green-500' },
-    { name: 'Express', progress: 85, color: 'bg-gray-600' },
-    { name: 'MongoDB', progress: 75, color: 'bg-green-600' },
-    { name: 'SQL', progress: 70, color: 'bg-blue-400' },
+    { name: 'Node.js', progress: 50, color: 'bg-green-500' },
+    { name: 'Express', progress: 65, color: 'bg-gray-600' },
+    { name: 'MongoDB', progress: 70, color: 'bg-green-600' },
+    { name: 'SQL', progress: 60, color: 'bg-blue-400' },
   ];
 
   const otherSkills: string[] = [
