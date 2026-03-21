@@ -24,12 +24,12 @@ const Projects = () => {
       codeUrl: "https://github.com/soumens7/MERN-E-Commerce-App",
     },
     {
-      title: "Habit Tracker",
-      description: "A productivity application for managing tasks/habits with add, remove and track streak features.",
+      title: "Book-Manager",
+      description: "A personal space for readers. Log your books, reflect on your habits, and rediscover your favourite authors.",
       image: "/Themes/pexels-polina-kovaleva-5717413.jpg",
-      tags: ["Javascript", "NodeJS", "MongoDB", "EJS"],
-      demoUrl: "https://habit-tracker-1-xz6v.onrender.com",
-      codeUrl: "https://github.com/soumens7/Habit-tracker",
+      tags: ["NextJS", "MongoDB", "RESTful API"],
+      demoUrl: "https://book-manager-seven-steel.vercel.app/",
+      codeUrl: "https://github.com/soumens7/Book-Manager",
     },
     {
       title: "Content-Summarizer App",
