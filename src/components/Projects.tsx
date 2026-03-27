@@ -32,12 +32,12 @@ const Projects = () => {
       codeUrl: "https://github.com/soumens7/Book-Manager",
     },
     {
-      title: "Content-Summarizer App",
-      description: "a full-stack text summarization app using Next.js, Tailwind CSS, and Hugging Face NLP API for AI-powered summaries.",
+      title: "AI Travel Planner",
+      description: "A full-stack web application that generates personalised, day-by-day travel itineraries using an AI agent powered by Google Gemini. Users sign up, describe their trip, and watch their itinerary appear in real-time — fully editable, budget-estimated, and hotel-recommended.",
       image: "/Themes/pexels-rdne-7947750.jpg",
-      tags: ["Next.js", "TailwindCSS", "Axios", "RESTful API", "AI (Hugging Face NLP API)", "CI/CD"],
-      demoUrl: "https://content-summarizer-swart.vercel.app/",
-      codeUrl: "https://github.com/soumens7/Content-Summarizer",
+      tags: ["Next.js", "TailwindCSS", "RESTful API", "Gen AI (Google gemini API)", "CI/CD"],
+      demoUrl: "https://ai-travel-planner-sand-mu.vercel.app/",
+      codeUrl: "https://github.com/soumens7/AI-Travel-Planner",
     },
     {
       title: "Voice-To-Text-App",
