@@ -41,7 +41,7 @@ const Projects = () => {
     },
     {
       title: "Document Intelligence Platform",
-      description: "This project is a Document Intelligence Platform that allows users to upload documents (PDF, DOCX) and interact with them through a conversational AI interface. The system processes uploaded documents, extracts meaningful information, and enables users to ask questions with grounded, context-aware responses.It is designed as a multi-user system with strict data isolation, ensuring users can only access their own documents and chat history.",
+      description: "This project is a Document Intelligence Platform that allows users to upload documents (PDF, DOCX) and interact with them through a conversational AI interface. The system processes uploaded documents, extracts meaningful information, and enables users to ask questions with grounded, context-aware responses.",
       image: "/Themes/markus-winkler-zkF_DbblKSI-unsplash.jpg",
       tags: ["Next.js", "TailwindCSS", "MongoDB", "Google Gemini", "JWT"],
       demoUrl: "https://document-intelligence-platform-rag-system-25iw5yso4.vercel.app/",
