@@ -34,18 +34,18 @@ const Projects = () => {
     {
       title: "AI Travel Planner",
       description: "A full-stack web application that generates personalised, day-by-day travel itineraries using an AI agent powered by Google Gemini. Users sign up, describe their trip, and watch their itinerary appear in real-time — fully editable, budget-estimated, and hotel-recommended.",
-      image: "/Themes/pexels-rdne-7947750.jpg",
+      image: "https://images.pexels.com/photos/669613/pexels-photo-669613.jpeg",
       tags: ["Next.js", "TailwindCSS", "RESTful API", "Gen AI (Google gemini API)", "CI/CD"],
       demoUrl: "https://ai-travel-planner-sand-mu.vercel.app/",
       codeUrl: "https://github.com/soumens7/AI-Travel-Planner",
     },
     {
-      title: "Voice-To-Text-App",
-      description: "This is a voice to text Web App which converts voice in English and translate in Hindi.",
+      title: "Document Intelligence Platform",
+      description: "This project is a Document Intelligence Platform that allows users to upload documents (PDF, DOCX) and interact with them through a conversational AI interface.",
       image: "/Themes/markus-winkler-zkF_DbblKSI-unsplash.jpg",
-      tags: ["Next.js", "TailwindCSS", "Web Speech API", "Hugging Face Inference API", "CI/CD"],
-      demoUrl: "https://voice-to-text-app-red.vercel.app/",
-      codeUrl: "https://github.com/soumens7/Voice-To-Text-App",
+      tags: ["Next.js", "TailwindCSS", "MongoDB", "Google Gemini", "JWT"],
+      demoUrl: "https://document-intelligence-platform-rag-system-25iw5yso4.vercel.app/",
+      codeUrl: "https://github.com/soumens7/Document-Intelligence-Platform-RAG-System-",
     },
   ];
 
