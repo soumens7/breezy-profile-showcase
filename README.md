@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/89c091d1-3581-4054-af40-fd2b78730a7b
+**URL**: https://preview--breezy-profile-showcase.lovable.app/
 
 ## 🚀 Live Demo
 
