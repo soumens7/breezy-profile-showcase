@@ -12,8 +12,7 @@ const Skills = () => {
     { name: 'HTML & CSS', progress: 80, color: 'bg-blue-500' },
     { name: 'JavaScript', progress: 85, color: 'bg-yellow-500' },
     { name: 'React', progress: 75, color: 'bg-cyan-500' },
-    { name: 'Bootstrap', progress: 70, color: 'bg-purple-500' },
-    
+    {name: 'NextJS', progress: 70, color: 'bg-purple-500' },
   ];
 
   const backendSkills: Skill[] = [
@@ -27,6 +26,7 @@ const Skills = () => {
     'Git & GitHub',
     'Responsive Design',
     'REST APIs',
+    'Docker',
     'Performance Optimization',
     'Testing',
   ];

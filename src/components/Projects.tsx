@@ -19,9 +19,9 @@ const Projects = () => {
       title: "E-commerce Website",
       description: "A fully responsive e-commerce platform with product catalog, shopping cart, and checkout functionality.",
       image: "/Themes/pexels-karolina-grabowska-5632382.jpg",
-      tags: ["React", "Node.js", "MongoDB", "REST API", "Razorpay"],
-      demoUrl: "https://mern-e-commerce-app-tau.vercel.app/",
-      codeUrl: "https://github.com/soumens7/MERN-E-Commerce-App",
+      tags: ["React", "Node.js", "PostgreSQL", "REST API", "Razorpay", "Docker"],
+      demoUrl: "https://e-commerce-v2-docker-front-end.onrender.com",
+      codeUrl: "https://github.com/soumens7/E-Commerce-v2/tree/docker",
     },
     {
       title: "Book-Manager",
